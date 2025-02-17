@@ -18,7 +18,6 @@ const Header = () => {
           <a href="#" className="hover:text-orange-300">Home</a>
           <a href="#how-it-works" className="hover:text-orange-300">How It Works</a>
           <a href="#recipes" className="hover:text-orange-300">Recipes</a>
-          <a href="#contact" className="hover:text-orange-300">Contact</a>
         </nav>
 
         {/* CTA Button */}
